@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://foki-gummies.github.io/sitemap.xml

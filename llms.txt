@@ -1,0 +1,16 @@
+# FOKI
+> FOKI jsou veganské kofeinové gummies bez přidaného cukru pro vysokoškolské studenty. Studentský projekt (fiktivní značka) předmětu Digitální marketing v obchodě, VUT FP Brno.
+
+## Fakta o produktu
+- 1 gummy = 40 mg přírodního kofeinu (guarana, zelený čaj) + 80 mg L-theaninu + vitamín B6 a B12
+- 1 FOKI ≈ polovina espressa
+- Max. 4 kusy denně (160 mg kofeinu); EFSA: bezpečných 400 mg/den pro zdravé dospělé
+- Nedoporučuje se dětem, těhotným a kojícím ženám; prodej 18+
+- Ceny: Zkouškový sáček 10 ks 149 Kč, dóza 30 ks 449 Kč, předplatné 379 Kč/měsíc
+- Příchutě: Mango & limetka, Višeň & cola
+
+## Stránky
+- [Domů](https://foki-gummies.github.io/): produkt, složení, srovnání, ceník, FAQ
+- [Kofein a L-theanin](https://foki-gummies.github.io/blog/kofein-a-l-theanin.html)
+- [Kolik kofeinu denně je bezpečné](https://foki-gummies.github.io/blog/kolik-kofeinu-denne.html)
+- [Jak přežít zkouškové](https://foki-gummies.github.io/blog/jak-prezit-zkouskove.html)
