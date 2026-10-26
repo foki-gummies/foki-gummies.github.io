@@ -11,6 +11,10 @@
 
 ## Stránky
 - [Domů](https://foki-gummies.github.io/): produkt, složení, srovnání, ceník, FAQ
-- [Kofein a L-theanin](https://foki-gummies.github.io/blog/kofein-a-l-theanin.html)
-- [Kolik kofeinu denně je bezpečné](https://foki-gummies.github.io/blog/kolik-kofeinu-denne.html)
-- [Jak přežít zkouškové](https://foki-gummies.github.io/blog/jak-prezit-zkouskove.html)
+- [Blog](https://foki-gummies.github.io/blog/)
+- [Jak přežít zkouškové: 9 vědecky ověřených technik učení](https://foki-gummies.github.io/blog/jak-prezit-zkouskove.html): Aktivní vybavování, rozložené opakování, Pomodoro, spánek a pohyb. Praktický návod, jak se učit na zkoušky efektivněji a s menším stresem.
+- [Kofein a L-theanin: proč spolu fungují lépe než samotné kafe](https://foki-gummies.github.io/blog/kofein-a-l-theanin.html): Co je L-theanin, proč se kombinuje s kofeinem v poměru 1:2, co o tom říkají studie a jak kombinaci rozumně používat při učení.
+- [Kolik kofeinu denně je bezpečné? Kompletní průvodce pro studenty](https://foki-gummies.github.io/blog/kolik-kofeinu-denne.html): Bezpečné denní a jednorázové dávky kofeinu podle EFSA, tabulka obsahu kofeinu v kávě, čaji, energy drincích i FOKI, a jak poznat, že je toho moc.
+- [Odpolední útlum ve 14:00: proč přichází a 7 způsobů, jak ho hacknout](https://foki-gummies.github.io/blog/odpoledni-utlum.html): Proč tě po obědě přepadá únava, co je post-lunch dip, jak funguje 20minutový šlofík a „kávový nap“ a co dělat, když usínáš na seminárce.
+- [Energy drink, káva, nebo kofeinové gummies? Poctivé srovnání pro studenty](https://foki-gummies.github.io/blog/energy-drink-vs-kava.html): Srovnání obsahu kofeinu, cukru, ceny za dávku, praktičnosti a vlivu na spánek u energy drinků, kávy, čaje a kofeinových gummies.
+- [Jak omezit energy drinky: 14denní plán bez bolesti hlavy](https://foki-gummies.github.io/blog/jak-omezit-energy-drinky.html): Praktický plán, jak postupně snížit energy drinky a kofein bez abstinenčních příznaků, a čím je nahradit, aby ses dál dokázal/a soustředit.
